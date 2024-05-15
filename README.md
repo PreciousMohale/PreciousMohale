@@ -15,8 +15,3 @@ Hello! I'm Precious Mohale, a Masters graduate and an enthusiastic data analyst 
 
 4. **Power BI Passion**:
    - Power BI is my canvas for creating interactive dashboards. I've visualized trends, built data models, and turned numbers into compelling stories.
-
-**GitHub Showcase**:
-- Check out my GitHub repository https://github.com/PreciousMohale to explore my projects, code snippets, and data analyses. Let's connect and geek out over data!
-
----
