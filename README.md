@@ -11,7 +11,7 @@ Hello! I'm Precious Mohale, a Masters graduate and an enthusiastic data analyst 
    - SQL is my favourite! I've crafted complex queries, optimized databases, and explored relational data models. MySQL is where I feel at home.
 
 3. **Excel Wizardry**:
-   - Spreadsheets excite me! From pivot tables to VLOOKUPs, I've tamed Excel for data wrangling and reporting.
+   - Spreadsheets excite me! Functions, Pivot tables, Dashboards, I utilise Excel for data wrangling and reporting.
 
 4. **Power BI Passion**:
    - Power BI is my canvas for creating interactive dashboards. I've visualized trends, built data models, and turned numbers into compelling stories.
