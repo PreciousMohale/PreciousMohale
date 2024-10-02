@@ -2,13 +2,13 @@
 
 ---
 
-Hello! I'm Precious Mohale, a Masters graduate and an enthusiastic data analyst with a strong foundation in Python, MySQL, Excel, and Power BI. My journey began with a fascination for turning raw data into actionable insights. Here's what I bring to the table:
+Hello! I'm Precious Mohale, an enthusiastic data scientist with a strong foundation in Python, MySQL, Excel, and Power BI. My journey began with a fascination for turning raw data into actionable insights. Here's what I bring to the table:
 
 1. **Python**:
-   - I've honed my Python skills by working on data cleaning, transformation, and analysis. Whether it's pandas for data manipulation or matplotlib for visualizations, Python is my go-to tool.
+   - I've honed my Python skills by working on data cleaning, transformation, and analysis.
 
 2. **MySQL**:
-   - SQL is my favourite! I've crafted complex queries, optimized databases, and explored relational data models. MySQL is where I feel at home.
+   - I've crafted complex queries, optimized databases, and explored relational data models.
 
 3. **Excel**:
    - Spreadsheets excite me! Functions, Pivot tables, Dashboards, I utilise Excel for data wrangling and reporting.
