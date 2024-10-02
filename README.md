@@ -1,4 +1,4 @@
-**Aspiring Data Analyst with a Passion for Insights**
+**Aspiring Data Scientist with a Passion for Insights**
 
 ---
 
